@@ -1,0 +1,14 @@
+/Users/salma/Desktop/DOTNET-PROJECTS/console-apps/networkInfoTool/bin/Debug/net10.0/myConsoleApp
+/Users/salma/Desktop/DOTNET-PROJECTS/console-apps/networkInfoTool/bin/Debug/net10.0/myConsoleApp.deps.json
+/Users/salma/Desktop/DOTNET-PROJECTS/console-apps/networkInfoTool/bin/Debug/net10.0/myConsoleApp.runtimeconfig.json
+/Users/salma/Desktop/DOTNET-PROJECTS/console-apps/networkInfoTool/bin/Debug/net10.0/myConsoleApp.dll
+/Users/salma/Desktop/DOTNET-PROJECTS/console-apps/networkInfoTool/bin/Debug/net10.0/myConsoleApp.pdb
+/Users/salma/Desktop/DOTNET-PROJECTS/console-apps/networkInfoTool/obj/Debug/net10.0/myConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/salma/Desktop/DOTNET-PROJECTS/console-apps/networkInfoTool/obj/Debug/net10.0/myConsoleApp.AssemblyInfoInputs.cache
+/Users/salma/Desktop/DOTNET-PROJECTS/console-apps/networkInfoTool/obj/Debug/net10.0/myConsoleApp.AssemblyInfo.cs
+/Users/salma/Desktop/DOTNET-PROJECTS/console-apps/networkInfoTool/obj/Debug/net10.0/myConsoleApp.csproj.CoreCompileInputs.cache
+/Users/salma/Desktop/DOTNET-PROJECTS/console-apps/networkInfoTool/obj/Debug/net10.0/myConsoleApp.dll
+/Users/salma/Desktop/DOTNET-PROJECTS/console-apps/networkInfoTool/obj/Debug/net10.0/refint/myConsoleApp.dll
+/Users/salma/Desktop/DOTNET-PROJECTS/console-apps/networkInfoTool/obj/Debug/net10.0/myConsoleApp.pdb
+/Users/salma/Desktop/DOTNET-PROJECTS/console-apps/networkInfoTool/obj/Debug/net10.0/myConsoleApp.genruntimeconfig.cache
+/Users/salma/Desktop/DOTNET-PROJECTS/console-apps/networkInfoTool/obj/Debug/net10.0/ref/myConsoleApp.dll
